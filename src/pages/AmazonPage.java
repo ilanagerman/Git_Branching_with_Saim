@@ -8,4 +8,6 @@ public class AmazonPage {
     //some changes
 
     // changes
+
+    // html for cart page
 }
