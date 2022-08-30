@@ -6,4 +6,6 @@ public class AmazonPage {
     // html for review
 
     //some changes
+
+    // changes
 }
